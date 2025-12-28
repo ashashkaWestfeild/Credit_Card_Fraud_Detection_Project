@@ -1,0 +1,24 @@
+# System files
+__pycache__/
+*.ipynb_checkpoints/
+*.pyc
+
+# Assignment specific files (exclude purely assignment materials)
+Assignment 1 DNN.pdf
+DNN Assignment 1.png
+DNN Assignment.zip
+DNN_Assignment_1_Template.pdf
+DNN_Assignment_Template.ipynb
+2025AA05710_assignment.ipynb
+
+# Helper scripts (exclude verification scripts unless requested)
+verify_*.py
+restore_baseline.py
+check_update.py
+apply_notebook_fix.py
+assignment_solution.py
+fix_notebook.py
+update_notebook.py
+
+# Directories
+Fraud_Detection_Project/
